@@ -1,5 +1,6 @@
 # v3_vite_template
 Vue3 vite template
+
 # 技术栈
 ⚡️ Vite 3[2] - 构建工具（就是快！）
 🖖 Vue 3[3] - 渐进式 JavaScript 框架
